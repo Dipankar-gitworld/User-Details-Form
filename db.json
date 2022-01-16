@@ -1,0 +1,13 @@
+{
+  "employee-details": [
+    {
+      "name": "Dipankar",
+      "age": "24",
+      "address": "golaptala,coochbehar",
+      "department": "IT",
+      "salary": "60000",
+      "maraitalStartus": "unmarried",
+      "id": 1
+    }
+  ]
+}

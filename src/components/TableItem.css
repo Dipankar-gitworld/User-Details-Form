@@ -1,0 +1,17 @@
+table,td,th{
+    
+    border: 2px solid black;
+    
+    margin: auto;
+    margin-top: 20px;
+    text-align: left;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    padding: 15px;
+}
+td button{
+    margin: 0;
+}

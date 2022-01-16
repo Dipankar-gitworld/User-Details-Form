@@ -1,0 +1,16 @@
+.form{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.form input{
+    margin-right: 10px;
+    height: 30px;
+    vertical-align: bottom;
+}
+
+select{
+    margin-right: 10px;
+    height: 35px;
+}
